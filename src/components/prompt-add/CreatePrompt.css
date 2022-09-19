@@ -1,0 +1,21 @@
+.create-prompt {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create-prompt label {
+  text-align: left;
+  display: block;
+  padding: 10px;
+}
+
+.create-prompt input, 
+.create-prompt textarea, 
+.create-prompt select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  display: block;
+}
